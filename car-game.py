@@ -1,8 +1,9 @@
-# hw5.py
+# car-game.py
 # Assignment 5 - Gotta Catch 'Em All
 #
 # Date      Author      Notes
 # 12/9/23   Yan Li      Initial version
+# 4/3/25    Yan Li      Initial upload to GitHub
 
 from graphics import *
 import time
