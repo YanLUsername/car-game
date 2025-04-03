@@ -16,4 +16,11 @@ Simple game created in Python for my introductory Python class, EECS12. The prog
 - Python 3
 - graphics.py
 
-![image](https://github.com/user-attachments/assets/22617554-6d95-428e-8414-7a387932fdf9)
+### Home Screen
+![Home Screen](https://github.com/user-attachments/assets/22617554-6d95-428e-8414-7a387932fdf9)
+
+### Playing the Game
+![Playing Game](https://github.com/user-attachments/assets/f719829f-a487-4d42-9c8b-f5b7048f619a)
+
+### Pause Menu
+![Pause Menu](https://github.com/user-attachments/assets/c82b5d36-32e1-4804-8738-4b46db0e503a)
