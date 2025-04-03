@@ -15,3 +15,5 @@ Simple game created in Python for my introductory Python class, EECS12. The prog
 ### Built With 
 - Python 3
 - graphics.py
+
+![image](https://github.com/user-attachments/assets/22617554-6d95-428e-8414-7a387932fdf9)
