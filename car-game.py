@@ -107,7 +107,7 @@ def main():
     sun.setOutline("yellow")
     sun.draw(win)
 
-    with open('hw5_input.txt','r') as file:
+    with open('input.txt','r') as file:
      # reading each line
         for line in file:
             coordinates=[]
